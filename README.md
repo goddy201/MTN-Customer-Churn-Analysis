@@ -10,3 +10,4 @@ In this project, I analyzed a sample dataset of MTN Nigeria’s customer churn f
 •	Leading Churn Reason: High call tariff, accounting for 19% of total churn cases
 This analysis highlights a strong correlation between peak revenue and churn in February, suggesting a potential dissatisfaction among high-paying users. The insights can be used to inform customer retention strategies, particularly around pricing.
  - <a href= "https://github.com/goddy201/Goddy-s-Repository/blob/main/MTN%20Customer_Churn.xlsx"> Dataset</a>
+- <a href= "https://github.com/goddy201/MTN-Customer-Churn-Analysis/blob/main/Customer_Churn_Dasboard.png"> Dasboard</a>
